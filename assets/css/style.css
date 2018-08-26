@@ -501,6 +501,7 @@ h1.color-alt-primary,h2.color-alt-primary,h3.color-alt-primary,h4.color-alt-prim
 
 .carousel-control .glyphicon-chevron-left:before {
     content: '\f104'
+  font-family: 'Font Awesome\ 5 Free';
 }
 
 .carousel-control .glyphicon-chevron-right {
@@ -509,6 +510,7 @@ h1.color-alt-primary,h2.color-alt-primary,h3.color-alt-primary,h4.color-alt-prim
 
 .carousel-control .glyphicon-chevron-right:before {
     content: '\f105'
+  font-family: 'Font Awesome\ 5 Free';
 }
 
 .video-box {
@@ -2366,7 +2368,8 @@ select:focus {
     font-size: 16px;
     line-height: 44px;
     text-align: center;
-    width: 44px
+    width: 44px;
+  font-family: 'Font Awesome\ 5 Free';
 }
 
 .select2-container--default .select2-selection--single .select2-selection__arrow b {
@@ -2876,6 +2879,8 @@ select:focus {
     right: 2px;
     font-family: themify;
     content: '\e64b';
+	
+  font-family: 'Font Awesome\ 5 Free';
     font-size: 7px
 }
 
